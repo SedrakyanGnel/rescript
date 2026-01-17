@@ -1,5 +1,5 @@
 ## Info
-I invented this, but there are yet no real scenarios like this.
+I invented this, but there are yet no real cases like this discovered by me.
 
 Although, it can surely work.
 
